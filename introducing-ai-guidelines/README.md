@@ -28,13 +28,13 @@ There might be multiple different approaches to the questions. Discuss and see i
 
 **The facilitator** should then start a Slack thread for their region within the ITP channel. Everyone should use this thread to post any questions about AI use that they have.
 
-Spend another 10 minutes, if needed, discussing any queries that were raised in that Slack thread.
+**Set another timer for 10 minutes**, you don't need to use the full 10 minutes if you finish before. Discussing as a whole group any queries that were raised in that Slack thread.
 
 <!--{{</note>}}-->
 
 ## Stretch: Find the wider AI usage guidelines
 
-If you have time to spare, spend 5 minutes individually navigating the curriculum.
+If you have time to spare, **spend 5 minutes in pairs** navigating the curriculum.
 
 Task: find the "AI Usage Guidelines" in the CYF Guides.
 
