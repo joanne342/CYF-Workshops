@@ -17,7 +17,7 @@ In this workshop we will read guidelines, discuss, and ask questions around how 
 
 <!--{{<note type="activity" title="Class Discussion, 10m" >}}-->
 
-After the 5 minutes is up, **set a timer for 10 minutes.** As a group discussing the following questions:
+After the 5 minutes is up, **set a timer for 6 minutes.** As groups (no bigger than 5) discussing the following questions:
 
 1. What more general skills we are trying to build during the ITP (_which AI use could disrupt_)?
 2. What is an example of **acceptable** AI use?
@@ -26,11 +26,13 @@ After the 5 minutes is up, **set a timer for 10 minutes.** As a group discussing
 
 There might be multiple different approaches to the questions. Discuss and see if there is a consensus across the group.
 
+**Set a timer for 4 minutes and as a entire ITP class**, the facilitator should popcorn around the different groups and get one answer for each of the questions. Specifically looking for any big misconceptions across the class. These are worth raising in Slack as it might be an indicator of clarification needed in the guidelines.
+
 **The facilitator** should then start a Slack thread for their region within the ITP channel. Everyone should use this thread to post any questions about AI use that they have.
 
 **Set another timer for 10 minutes**, you don't need to use the full 10 minutes if you finish before. Discussing as a whole group any queries that were raised in that Slack thread.
 
-<!--{{</note>}}-->
+<!--{{</note>}}-->s
 
 ## Stretch: Find the wider AI usage guidelines
 
