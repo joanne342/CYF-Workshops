@@ -6,7 +6,6 @@
 - [ ] Read through the [AI guidelines for ITP](https://curriculum.codeyourfuture.io/itp/welcome/prep/#acceptable-ai-use)
 - [ ] Explain how we can use AI in acceptable ways whilst we're learning on the ITP
 - [ ] Give examples of how we can check we're using AI in acceptable ways for our learning journey.
-- [ ] Can navigate to the wider AI usage guidelines in the curriculum
 ```
 
 In this workshop we will read guidelines, discuss, and ask questions around how we use AI during the ITP.
@@ -26,13 +25,13 @@ After the 5 minutes is up, **set a timer for 6 minutes.** As groups (no bigger t
 
 There might be multiple different approaches to the questions. Discuss and see if there is a consensus across the group.
 
-**Set a timer for 4 minutes and as a entire ITP class**, the facilitator should popcorn around the different groups and get one answer for each of the questions. Specifically looking for any big misconceptions across the class. These are worth raising in Slack as it might be an indicator of clarification needed in the guidelines.
+**Set a timer for 4 minutes and as a entire ITP class** popcorn around the different groups and get one answer for each of the questions. Specifically looking for any big misconceptions across the class.
 
-**The facilitator** should then start a Slack thread for their region within the ITP channel. Everyone should use this thread to post any questions about AI use that they have.
+Start a Slack thread for your region within the ITP channel. Everyone should use this thread to post any questions about AI use that they have. Take 10 minutes extra if needed to address these questions.
 
-**Set another timer for 10 minutes**, you don't need to use the full 10 minutes if you finish before. Discussing as a whole group any queries that were raised in that Slack thread.
+> As a facilitator, it might be worth feeding back to us any specific misconceptions that came up that could be better explained in the guidance we've written.
 
-<!--{{</note>}}-->s
+<!--{{</note>}}-->
 
 ## Stretch: Find the wider AI usage guidelines
 
